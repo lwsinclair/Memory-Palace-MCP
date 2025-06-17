@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zeyynepkaraduman-memory-palace-mcp-badge.png)](https://mseep.ai/app/zeyynepkaraduman-memory-palace-mcp)
+
 # Memory Palace MCP 🏰
 
 A Model Context Protocol (MCP) server that implements the ancient "Method of Loci" (Memory Palace) technique for enhanced learning and memory retention. This MCP helps users create virtual memory palaces, organize information spatially, and build memory journeys for effective recall.
